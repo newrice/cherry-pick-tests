@@ -1,13 +1,13 @@
 some text
 some text
 some text
-something was changed in feat
+something was changed in feat-2
 something was changed in develop
 something was changed in develop
 something was changed in develop
 something was changed in develop
 something was changed in feat
-something was changed in feat
+something was changed in feat-2
 some text
 some text
 some text
